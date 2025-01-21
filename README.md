@@ -24,7 +24,7 @@ ChillSlots is a comprehensive platform designed to simplify the booking of recre
 
 ### **Frontend**  : **HTML**, **CSS**, **JavaScript**
 
-### **Backend**  : **MongoDB**
+### **Backend**  : **MongoDB.**
 
 ## Contributing
 
